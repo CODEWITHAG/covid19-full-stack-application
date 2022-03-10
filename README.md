@@ -59,7 +59,5 @@ If you face any problem or have any suggestion on improving the code then feel f
 [https://www.youtube.com/watch?v=dth5jfLDuus&t=16s](https://www.youtube.com/watch?v=dth5jfLDuus&t=16s)
 
 ### Website Design & Developed by
-[Anshuman Pattnaik](https://www.linkedin.com/in/anshuman123/)
+[Brijesh Jindal]
 
-### License
-This project is licensed under the [MIT License](LICENSE)
